@@ -1,1 +1,1 @@
-# SLots
+# Slots
